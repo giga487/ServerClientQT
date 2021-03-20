@@ -1,0 +1,2 @@
+# ServerClientQT
+try qt communication
