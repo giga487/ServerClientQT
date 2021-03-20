@@ -2,7 +2,6 @@
 #include "ui_mainwindow.h"
 #include "commrt.h"
 #include "threadserver.h"
-#include "threadclient.h"
 
 
 MainWindow::MainWindow(QWidget *parent)

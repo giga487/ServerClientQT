@@ -5,7 +5,7 @@
 #include <iostream>
 #include "QTcpSocket"
 #include "QTcpServer"
-#include "commrt.h"
+
 
 class MyThread : public QThread
 {
